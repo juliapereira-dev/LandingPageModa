@@ -1,0 +1,131 @@
+body {
+    margin: 0%;
+}
+.logo {
+    width: 20%;
+    padding-left: 5%;
+}
+.cabecalho {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.menu {
+    display: flex;
+    margin-top: 40px;
+    margin-right: 50px;
+    gap: 30px;
+    
+}
+.menuitem {
+    color: black;
+    font-size: 18px;
+    font-family: 'Lora', serif;
+    text-decoration: none;
+}
+.banner {
+    width: 100%;
+    height: 80%;
+    
+}
+.secao-frases {
+    margin-top: 80px; }
+
+
+
+.texto-frases {
+    font-size: 22px;
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+}
+
+
+.h1-banner {
+    font-family: 'Parisienne', cursive;
+    font-size: 40px;
+    font-weight: 550;
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.texto-frases {
+    font-size: 22px;
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+}
+
+.div-produtos {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    margin: 5%;
+    margin-left: 12%;
+    margin-bottom: 150px;
+}
+.produto-imagem {
+    width: 70%;
+    
+}
+
+.secao-produtos {
+    width: 100%;
+    margin-top: 50px;
+
+}
+
+.secao-hunter {
+margin-top: 70px;
+}
+
+
+.texto-hunter {
+    font-size: 18px;
+    font-family: 'Lora', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5% ;
+    padding-right: 5%;
+    white-space: nowrap;                      
+    }
+
+.video-hunter {
+    margin-top: 80px;
+        
+    }
+
+.secao-redes-sociais {
+    margin-top: 100px;
+
+}
+
+
+.redes {
+    display: flex;
+    justify-content: center;
+
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    gap: 20px;
+
+    list-style: none;
+    
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-right: 50px;
+
+}
+
+.text-decoration {
+    text-decoration: none;
+    color: black;
+}
